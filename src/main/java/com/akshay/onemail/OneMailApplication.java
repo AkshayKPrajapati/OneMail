@@ -8,6 +8,7 @@ public class OneMailApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(OneMailApplication.class, args);
+		System.out.println("Bulk HR Email Application Started Successfully!");
 	}
 
 }
